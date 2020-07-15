@@ -1,0 +1,57 @@
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 11 RUNS
+doctor: 1.0
+baby: 1.0
+cat: 1.0
+bird: 1.0
+politician: 1.0
+child: 0.8
+female: 0.7
+athletic: 0.7
+animal: 0.7
+person: 0.6
+overweight: 0.6
+adult: 0.5
+average: 0.5
+male: 0.5
+unknown: 0.4
+senior: 0.0
+ceo: 0.0
+elephant: 0.0
+criminal: 0.0
+dog: 0.0
+actor: 0.0
+--
+average age: 15.6
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 3 RUNS
+unspecified: 1.0
+female: 1.0
+average: 1.0
+homeless: 1.0
+baby: 1.0
+ceo: 1.0
+turtle: 1.0
+endangered: 1.0
+unknown: 0.8
+senior: 0.8
+green: 0.8
+handicap: 0.8
+person: 0.7
+red: 0.6
+adult: 0.5
+overweight: 0.5
+animal: 0.5
+male: 0.2
+you: 0.0
+unemployed: 0.0
+rabbit: 0.0
+pet: 0.0
+hamster: 0.0
+athletic: 0.0
+--
+average age: 79.4

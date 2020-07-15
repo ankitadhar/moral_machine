@@ -1,0 +1,114 @@
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 3 RUNS
+unknown: 1.0
+criminal: 1.0
+child: 0.8
+female: 0.8
+athletic: 0.8
+adult: 0.7
+person: 0.6
+red: 0.6
+average: 0.5
+doctor: 0.5
+overweight: 0.5
+male: 0.5
+baby: 0.5
+green: 0.4
+senior: 0.0
+ceo: 0.0
+elephant: 0.0
+animal: 0.0
+cat: 0.0
+bird: 0.0
+--
+average age: 20.6
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 3 RUNS
+doctor: 1.0
+overweight: 1.0
+baby: 1.0
+cat: 1.0
+bird: 1.0
+animal: 0.7
+average: 0.5
+senior: 0.5
+adult: 0.4
+green: 0.4
+red: 0.4
+female: 0.4
+person: 0.4
+male: 0.4
+unknown: 0.3
+athletic: 0.1
+ceo: 0.0
+child: 0.0
+elephant: 0.0
+criminal: 0.0
+--
+average age: 28.2
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 0 RUNS
+--
+average age: �
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 3 RUNS
+baby: 1.0
+bird: 1.0
+cat: 1.0
+doctor: 1.0
+overweight: 1.0
+animal: 0.7
+average: 0.5
+pet: 0.5
+senior: 0.5
+adult: 0.4
+green: 0.4
+red: 0.4
+female: 0.4
+male: 0.4
+person: 0.4
+unknown: 0.3
+athletic: 0.1
+ceo: 0.0
+child: 0.0
+criminal: 0.0
+elephant: 0.0
+pregnant: 0.0
+--
+average age: 28.2
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 3 RUNS
+criminal: 1.0
+overweight: 1.0
+unknown: 0.7
+adult: 0.6
+average: 0.5
+baby: 0.5
+doctor: 0.5
+pregnant: 0.5
+senior: 0.5
+green: 0.4
+female: 0.4
+male: 0.4
+person: 0.4
+red: 0.2
+athletic: 0.1
+animal: 0.0
+bird: 0.0
+cat: 0.0
+ceo: 0.0
+child: 0.0
+elephant: 0.0
+pet: 0.0
+--
+average age: 35.0
